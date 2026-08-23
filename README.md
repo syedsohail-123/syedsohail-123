@@ -5,7 +5,7 @@
 
 ### 🚀 About Me:
 - 🔭 **Current Focus:** Crafting high-performance web applications with React.js/Next.js & robust backend architectures using Django, FastAPI, and Node.js.
-- 📱 **Mobile Development:** Building cross-platform cross-compatibility applications leveraging **Flutter**.
+- 📱 **Mobile Development:** Building cross-platform applications leveraging **Flutter**.
 - 🛠️ **DevOps & Cloud:** Deploying and scaling applications using Docker, AWS, and automated CI/CD pipelines.
 - 💡 **Passion:** Transforming complex system ideas into production-ready software and automating workflows.
 
@@ -46,14 +46,15 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=syedsohail-123&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsohail-123&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedsohail-123&show_icons=true&theme=radical&hide_border=true" alt="Syed's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsohail-123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me:
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com)
-
+- **Email:** [ahmedsyedsohail776@gmail.com](mailto:ahmedsyedsohail776@gmail.com)
+- **LinkedIn:** [Syed Sohail Ahmed](https://www.linkedin.com/in/-syedsohailahmed/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
