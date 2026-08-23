@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Syed+Sohail+Ahmed;Full-Stack+Software+Developer;Building+Scalable+Web+%26+Mobile+Apps;Cloud+Architecture+%26+DevOps+Engineer" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available_for_Projects-00F2FE?style=flat-square&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core_Focus-Full_Stack_%7C_Cloud-7928CA?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Available_for_Projects-00F2FE?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Cloud-7928CA?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 ---
 
 ### ⚡ About Me
-- 🔭 **Current Arc:** Engineering robust full-stack web platforms and high-performance cross-platform applications.
-- 💡 **Engineering Philosophy:** Writing clean, modular, and maintainable code that scales seamlessly under load.
-- 🚀 **Automation First:** Heavy emphasis on automated CI/CD, Docker containerization, and cloud orchestration.
+- 🔭 **Current Focus:** Engineering robust full-stack web platforms and cross-platform mobile apps with Flutter.
+- 💡 **Architecture & Design:** Writing modular, scalable backend microservices with Django, FastAPI, and Node.js.
+- 🚀 **Automation First:** Heavy emphasis on Docker containerization, AWS cloud workflows, and automated CI/CD pipelines.
 
 ---
 
@@ -32,10 +32,17 @@
 
 ---
 
-### 📈 GitHub Activity Streak
+### 📊 Engineering Highlights
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsohail-123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+| Core Competencies | Domains & Practices |
+| :--- | :--- |
+| **Frontend & Mobile** | Modern React, Next.js, Flutter Cross-Platform UI |
+| **Backend & Microservices** | RESTful APIs, Django, FastAPI, Node.js / Express |
+| **Data Systems** | Relational (PostgreSQL) & NoSQL (MongoDB, Redis, DynamoDB) |
+| **DevOps & Cloud** | AWS, Containerization (Docker/Podman), CI/CD Automation |
+
 </div>
 
 ---
