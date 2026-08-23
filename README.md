@@ -1,46 +1,46 @@
 <div align="center">
 
-# Hi, I'm Syed Sohail Ahmed 🚀
-### Full-Stack Software Developer & System Architect
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Hi+👋,+I'm+Syed+Sohail+Ahmed;Full-Stack+Software+Developer;Building+Scalable+Web+%26+Mobile+Apps;Cloud+Architecture+%26+DevOps+Engineer" alt="Typing SVG" />
 
-<p>
-  <a href="https://www.linkedin.com/in/-syedsohailahmed/"><strong>LinkedIn</strong></a> &nbsp;&bull;&nbsp;
-  <a href="mailto:ahmedsyedsohail776@gmail.com"><strong>Email</strong></a> &nbsp;&bull;&nbsp;
-  <a href="https://github.com/syedsohail-123"><strong>GitHub</strong></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Available_for_Projects-00F2FE?style=flat-square&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core_Focus-Full_Stack_%7C_Cloud-7928CA?style=flat-square&logo=rocket&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/-syedsohailahmed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ahmedsyedsohail776@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/syedsohail-123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 </div>
 
 ---
 
-### ⚡ Quick Snapshot
-> *A passionate full-stack developer dedicated to architecting resilient web applications, cross-platform mobile experiences, and streamlined cloud-native backend environments.*
+### ⚡ About Me
+- 🔭 **Current Arc:** Engineering robust full-stack web platforms and high-performance cross-platform applications.
+- 💡 **Engineering Philosophy:** Writing clean, modular, and maintainable code that scales seamlessly under load.
+- 🚀 **Automation First:** Heavy emphasis on automated CI/CD, Docker containerization, and cloud orchestration.
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Tech Stack & Ecosystem
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,redux,nodejs,express,django,fastapi,mongodb,postgres,redis,docker,kubernetes,aws,githubactions,grafana,prometheus,linux,vscode&perline=10" />
+</p>
+
+---
+
+### 📈 GitHub Metrics & Activity
 
 <div align="center">
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend & Mobile** | `React.js` &nbsp;•&nbsp; `Next.js` &nbsp;•&nbsp; `Flutter` &nbsp;•&nbsp; `Tailwind CSS` &nbsp;•&nbsp; `Redux` |
-| **Backend & APIs** | `Node.js` &nbsp;•&nbsp; `Express.js` &nbsp;•&nbsp; `Django` &nbsp;•&nbsp; `FastAPI` |
-| **Databases & Cache** | `MongoDB` &nbsp;•&nbsp; `PostgreSQL` &nbsp;•&nbsp; `Redis` &nbsp;•&nbsp; `DynamoDB` |
-| **DevOps & Cloud** | `Docker` &nbsp;•&nbsp; `Kubernetes` &nbsp;•&nbsp; `AWS` &nbsp;•&nbsp; `GitHub Actions` &nbsp;•&nbsp; `Grafana` &nbsp;•&nbsp; `Prometheus` |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=syedsohail-123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsohail-123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### 🎯 Current Focus & Goals
-- 🌐 Engineering high-performance full-stack web and mobile systems.
-- ⚙️ Deepening container orchestration expertise with Kubernetes and advanced AWS cloud architecture.
-- 📈 Implementing end-to-end monitoring and metrics visualization using Prometheus and Grafana.
-
----
-
 <div align="center">
-
-```text
-[ Code ➔ Containerize ➔ Deploy ➔ Scale ]
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</div>
